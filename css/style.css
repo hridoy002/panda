@@ -1,0 +1,18 @@
+.carousel-bg{
+    background-color: #fceae8;
+}
+
+.buy-now-button{
+    background-color: #FF136F;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.categories img{
+    width: 100px;
+}
+
+.subscribe{
+    background-color: #fceae8;
+}
